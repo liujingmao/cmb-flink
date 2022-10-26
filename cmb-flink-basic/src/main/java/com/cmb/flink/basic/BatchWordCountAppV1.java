@@ -11,7 +11,7 @@ import org.apache.flink.util.Collector;
  * Java 版本Flink WordCount
  */
 
-public class BatchWordCountApp {
+public class BatchWordCountAppV1 {
 
     public static void main(String[] args) throws Exception {
         //1. Get env
